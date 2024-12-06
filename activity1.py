@@ -1,0 +1,12 @@
+print("Input the birthdays like 6/12/2013 to save")
+date1 = (input(""))
+date2 = (input(""))
+date3 = (input(""))
+date4 = (input(""))
+date5 = (input(""))
+#printing
+print("Birthday 1: ",date1)
+print("Birthday 2: ",date2)
+print("Birthday 3: ",date3)
+print("Birthday 4: ",date4)
+print("Birthday 5: ",date5)
